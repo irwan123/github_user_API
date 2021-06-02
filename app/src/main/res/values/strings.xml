@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GithubUserApi</string>
+    <string name="Name">Name</string>
+    <string name="Username">Username</string>
+    <string name="Search">Search User</string>
+    <string name="Followers">Followers</string>
+    <string name="Following">Following</string>
+    <string name="Favorite">Favorite</string>
+    <string name="Reminder">Set Reminder Alarm</string>
+    <string name="Settings">Settings</string>
+    <string name="Detail">Detail User</string>
+    <string name="List">List User</string>
+</resources>
